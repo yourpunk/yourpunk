@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there! I'm Aleksandra (yourpunk)
 
-<!--
-**yourpunk/yourpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Aspiring Game Creator** | 💡 Always pushing boundaries in code and design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me:
+- 🔭 Currently learning **Unity**, **C#** and **JavaScript**
+- 🖥️ Experienced in **Java**, **Python**, **C** and **C++**
+- 🎨 Passionate about storytelling and game mechanics
+- ✨ Open to collaborations on creative game projects
+
+---
+
+## 🛠️ My Toolbox:
+- **Languages:** Java, Python, C#, C(++)
+- **Game Engines:** Unity (in progress)
+- **Version Control:** Git, GitHub
+- **Other Tools:** Bash, JSON, JavaFX
+
+---
+
+## 📂 Featured Projects:
+
+
+---
+
+## 📫 How to Reach Me:
+- 📧 **Email:** [aleks.creatrix@gmail.com](mailto:aleks.creatrix@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aleksandra-soboleva-285757342)
