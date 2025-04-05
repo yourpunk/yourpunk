@@ -27,4 +27,4 @@
 
 ## 📫 How to Reach Me:
 - 📧 **Email:** [aleks.creatrix@gmail.com](mailto:aleks.creatrix@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aleksandra-soboleva-285757342)
+- 💼 [LinkedIn](www.linkedin.com/in/aleksandra-kenig-285757342)
