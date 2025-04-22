@@ -1,18 +1,18 @@
-# 👋 Hi there! I'm Aleksandra (yourpunk)
+# ᯓ★ Hi there! I'm Aleksandra (yourpunk) 
 
-🎮 **Aspiring Game Creator** | 💡 Always pushing boundaries in code and design
+🎮 **Aspiring Game Creator** | 🫀 Always pushing boundaries in code and design
 
 ---
 
-## 🌟 About Me:
+## 🎸 About Me:
 - 🔭 Currently learning **Unity**, **C#** and **JavaScript**
 - 🖥️ Experienced in **Java**, **Python**, **C** and **C++**
-- 🎨 Passionate about storytelling and game mechanics
-- ✨ Open to collaborations on creative game projects
+- 🗝️ Passionate about storytelling and game mechanics
+- 🚨 Open to collaborations on creative game projects
 
 ---
 
-## 🛠️ My Toolbox:
+## 🪛 My Toolbox:
 - **Languages:** Java, Python, C#, C(++)
 - **Game Engines:** Unity (in progress)
 - **Version Control:** Git, GitHub
@@ -20,11 +20,11 @@
 
 ---
 
-## 📂 Featured Projects:
+## 📌 Featured Projects:
 
 
 ---
 
-## 📫 How to Reach Me:
-- 📧 **Email:** [aleks.creatrix@gmail.com](mailto:aleks.creatrix@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aleksandra-kenig-285757342/)
+## ☎️ How to Reach Me:
+- 💌 **Email:** [aleks.creatrix@gmail.com](mailto:aleks.creatrix@gmail.com)
+- 🔗  [LinkedIn](https://www.linkedin.com/in/aleksandra-kenig-285757342/)
