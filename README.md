@@ -7,16 +7,16 @@
 ## 🎸 About Me:
 - 🔭 Currently learning **Unity**, **C#** and **JavaScript**
 - 🖥️ Experienced in **Java**, **Python**, **C** and **C++**
-- 🗝️ Passionate about storytelling and game mechanics
+- 🗝️ Obsessed with storytelling, strange mechanics & moody aesthetics
 - 🚨 Open to collaborations on creative game projects
 
 ---
 
-## 🪛 My Toolbox:
+## 🧰 My Toolbox:
 - **Languages:** Java, Python, C#, C(++)
-- **Game Engines:** Unity (in progress)
-- **Version Control:** Git, GitHub
-- **Other Tools:** Bash, JSON, JavaFX
+- **Game Engines:** Unity (learning stage, but fearless)
+- **Version Control:** Git, GitHub (yes, I commit often)
+- **Other Tools:** Bash, JSON, JavaFX, basic Blender
 
 ---
 
