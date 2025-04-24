@@ -22,7 +22,11 @@
 
 ## 📌 Featured Projects:
 
+### 🐾 [Purr-fect (Mr.) Chef](https://github.com/yourpunk/kitty-game)
+> A cozy 2D game where a kitten-chef collects ingredients and prepares cute meals.  
+> 🧪 Java · Swing · JSON · Save system · Recipe logic
 
+### 🧙🏻‍♂️ [Unsub Dwarf](https://github.com/yourpunk/unsub_dwarf.git)
 ---
 
 ## ☎️ How to Reach Me:
