@@ -29,6 +29,8 @@
 ### 🧙🏻‍♂️ [Unsub Dwarf](https://github.com/yourpunk/unsub_dwarf.git)
 > A tiny desktop wizard that **unsubscribes** you from junk emails and tidies up your **Gmail**. <br>
 > 🐍 Python · Gmail API · Tkinter · Automation
+
+### 👾 [GalaxiX](https://github.com/yourpunk/space-platformer)
 ---
 
 ## ☎️ How to Reach Me:
