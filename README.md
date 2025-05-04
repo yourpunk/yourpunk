@@ -26,9 +26,13 @@
 > A cozy **2D game** where a kitten-chef collects ingredients and prepares cute meals.<br>
 > 🧪 Java · Swing · JSON · Save system · Recipe logic
 
-### 🧙🏻‍♂️ [Unsub Dwarf](https://github.com/yourpunk/unsub_dwarf.git)
+### 🧙🏻‍♂️ [Unsub Dwarf](https://github.com/yourpunk/unsub_dwarf)
 > A tiny desktop wizard that **unsubscribes** you from junk emails and tidies up your **Gmail**. <br>
 > 🐍 Python · Gmail API · Tkinter · Automation
+
+### 👻 [Freshman's Fear](https://github.com/yourpunk/horror-uni)
+> A dark **3D horror escape game** set in a cursed university full of shadows and secrets. <br>
+> 🎮 Unity · C# · AI mobs · Sanity system · Puzzles · Timeline cutscenes
 
 ### 👾 [GalaxiX](https://github.com/yourpunk/space-platformer)
 ---
