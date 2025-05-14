@@ -35,6 +35,7 @@
 > 🎮 Unity · C# · AI mobs · Sanity system · Puzzles · Timeline cutscenes
 
 ### 👾 [GalaxiX](https://github.com/yourpunk/space-platformer)
+> In development...
 ---
 
 ## ☎️ How to Reach Me:
